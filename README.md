@@ -28,6 +28,6 @@ If you use this project, cite:
 
 You can download the code by:
 
-    git clone https://github.com/gabrieldgf4/disparity-computation-framework.git
+    git clone https://github.com/pixellab-ufg/disparity-computation-framework.git
     cd disparity-computation-framework 
 
